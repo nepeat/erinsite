@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on erin on the interwebs</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on erin on the interwebs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 -0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first post</title>
+      <link>https://example.org/posts/2024/first-post/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 -0800</pubDate>
+      <guid>https://example.org/posts/2024/first-post/</guid>
+      <description>redesigning and doing the funny blog thing</description>
+    </item>
+    <item>
+      <title>pay transparency</title>
+      <link>https://example.org/pages/compensation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/pages/compensation/</guid>
+      <description>a &lt;em&gt;&lt;strong&gt;painfully excessive&lt;/strong&gt;&lt;/em&gt; display of pay transparency</description>
+    </item>
+  </channel>
+</rss>

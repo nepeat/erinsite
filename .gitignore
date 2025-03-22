@@ -1,0 +1,41 @@
+# Python
+env/
+venv/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Node
+node_modules/
+web/
+
+# Misc / env
+.idea/
+.vscode/
+.direnv/
+.envrc
+.env
+*.retry
+secret/
+.fleet/
+
+# Gitsecret
+.gitsecret/keys/random_seed
+.direnv/
+infrastructure/docker_swarm/registry/docker-swarm.yml
+
+# Language garbage
+node_modules/
+*.egg-info
+serverless/twilio-discordhook/.envrc
+.envrc_secret
+infrastructure/docker_swarm/dex/config.yaml
+infrastructure/docker_swarm/traefik/traefik_users.passwd
+
+# terraform
+.terraform
+terraform.tfvars
+terraform.tfstate*
+
+*autogen.yml

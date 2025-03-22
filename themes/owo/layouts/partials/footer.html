@@ -1,0 +1,8 @@
+<footer id="webring">
+    <h2>friends</h2>
+    {{ range shuffle .Site.Params.webring }}
+    <a href="{{ .url }}">
+        <img src="{{ .image }}"/>
+    </a>
+    {{ end }}
+</footer>
