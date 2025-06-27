@@ -35,3 +35,11 @@ url = "https://skip.house"
 [[params.webring]]
 image = "/img/ring/elixire.gif"
 url = "https://elixi.re"
+
+[[params.webring]]
+image = "/img/ring/haylin.png"
+url = "https://hayl.in"
+
+[[params.webring]]
+image = "/img/ring/retr0id.gif"
+url = "https://www.da.vidbuchanan.co.uk"
